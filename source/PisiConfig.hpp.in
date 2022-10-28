@@ -2,3 +2,4 @@
 #define Pisi_VERSION_MINOR @Pisi_VERSION_MINOR@
 #define Pisi_VERSION_PATCH @Pisi_VERSION_PATCH@
 #define Pisi_VERSION_TWEAK @Pisi_VERSION_TWEAK@
+#define APP_NAME "Pisi Toolkit"
